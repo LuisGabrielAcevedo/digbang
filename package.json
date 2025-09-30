@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "format-number-with-string": "0.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
     "rc-slider": "^8.7.1",
     "react": "^16.10.2",
